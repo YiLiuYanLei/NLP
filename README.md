@@ -1,8 +1,8 @@
 # 基础py包的学习导图
 - [共享导图](https://www.edrawsoft.cn/viewer/public/s/1acda734620970) 用AI生成的思维导图
+- 里面提到的包，说都挺重要的。
 
-
-# 一些学习资源
+# 一些已经使用的学习资源
 - Pandas : [Pandas数据分析从入门到实战](https://www.bilibili.com/video/BV1UJ411A7Fs) 可以看前10P，干货挺多。
 
   [Pandas API](https://www.osgeo.cn/pandas/reference/frame.html)，不会可以查一下
