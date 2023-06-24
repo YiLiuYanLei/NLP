@@ -1,4 +1,8 @@
-# NLP
+# 基础py包的学习导图
+- ![导图1](https://github.com/YiLiuYanLei/NLP/assets/87067105/8c2a0687-7908-4731-9ec4-fbfb27c99f16)
+
+
+# 一些学习资源
 - Pandas : [Pandas数据分析从入门到实战](https://www.bilibili.com/video/BV1UJ411A7Fs) 可以看前10P，干货挺多。
 
   [Pandas API](https://www.osgeo.cn/pandas/reference/frame.html)，不会可以查一下
