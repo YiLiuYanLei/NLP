@@ -1,5 +1,5 @@
 # 基础py包的学习导图
-- ![导图1](https://github.com/YiLiuYanLei/NLP/assets/87067105/8c2a0687-7908-4731-9ec4-fbfb27c99f16)
+- [共享导图](https://www.edrawsoft.cn/viewer/public/s/1acda734620970)
 
 
 # 一些学习资源
