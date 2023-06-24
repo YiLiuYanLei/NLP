@@ -1,5 +1,5 @@
 # 基础py包的学习导图
-- [共享导图](https://www.edrawsoft.cn/viewer/public/s/1acda734620970)
+- [共享导图](https://www.edrawsoft.cn/viewer/public/s/1acda734620970) 用AI生成的思维导图
 
 
 # 一些学习资源
